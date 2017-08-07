@@ -1,0 +1,142 @@
+.bgcolor{
+	background-color: #0000ff;
+	padding: 0px 0px 20px 0px;
+	}
+.img {
+    background-image: url("../download.jpg");
+    background-size: cover;
+}
+.show{
+	background-color: #ffffff;
+}
+.img-circle{
+	border-radius: 50%;
+	 min-width: 150px;
+     min-height: 150px;
+     max-width: 150px;
+     max-height: 150px;
+     margin-top: 20px;
+}
+.margin{
+	margin-top: 220px;
+}
+.text{
+	text-align: center !important;
+	margin-top: 70px;
+	font-size: 60px;
+}
+.fstword{
+	color: #ffffff;
+	-webkit-animation:word1;
+	animation: word 6s infinite;
+}
+.secword{
+	color: #ff8c00;
+	-webkit-animation:word1;
+	animation: wording 6s infinite;
+}
+@-webkit-keyframes word{
+   from{
+   	color: #ff8c00;
+   }
+}
+@keyframes word1{
+	 from{
+   	color: #ffffff;
+   }
+}
+@-webkit-keyframes wording{
+   from{
+   	color: #ffffff;
+   }
+}
+@keyframes word2{
+	 from{
+   	color: #ffffff;
+   }
+}
+.texting{
+	color: #ffffff;
+}
+.text-indent{
+	text-indent: 5em;
+}
+.text-indent1{
+	text-indent: 2.5em;
+	text-align: justify;
+}
+table, td, th {    
+    border: 2px solid #ddd;
+    text-align: left;
+    font-size: 25px;
+    text-align: center;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 15px;
+}
+ul{
+	font-size: 30px;
+	text-indent: 1em;
+}
+input{
+	margin-top: 20px;
+}
+div.login-page{
+	background-image: url("../green.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 100%;
+    height: 670px;
+}
+form{
+	margin: 200px;
+}
+.button{
+	padding: 8px 118px;
+	background-color: #0013ff;
+	color: #ffffff;
+	font-size: 24px;
+}
+.image-circle{
+	border-radius: 50%;
+	 min-width: 150px;
+     min-height: 150px;
+     max-width: 150px;
+     max-height: 150px;
+     background-image: url("../userfull.png");
+     text-align: center;
+     background-size: cover;
+}
+input.center-block{
+	color: #ffffff;
+	background-color: rgba(0,0,0,0);
+	font-weight: bolder;
+	line-height: 30px;
+	width: 300px;
+	height: 40px;
+}
+@media screen  and (max-width: 480px){
+    section{
+    	text-align: center;
+    	width: 100%;
+    }
+    header{
+    	width:100%;
+    }
+    .h1-margin{
+    	font-size: 30px;
+       margin: 0 auto !important;
+     
+    }
+    .center-table{
+    	margin: 0 auto !important;
+}
+.margin-screen{
+	margin-top: 260px;
+}
+}
