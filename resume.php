@@ -27,8 +27,8 @@
 		<h2 class=""><b>e-mail : </b><a class="texting" href="">sarangoki@gmail.com</a></h2>
 		<h2 class=""><b>Phone no :</b> +91 8838 452612</h2>
 		<h2 class=""><b>Guvi URL :</b> <a href="https://www.guvi.in/sarangoki005" class="texting">https://www.guvi.in/sarangoki005</a></h2>
-		<h2 class=""><b>Hackerrank URL : </b><a href="https://github.com/GokilaPalanisamy" class="texting">https://github.com/GokilaPalanisamy</a></h2>
-		<h2 class=""><b>Github URL : </b><a href="https://www.hackerrank.com/sarangoki005" class="texting">https://www.hackerrank.com/sarangoki005</a></h2>
+		<h2 class=""><b>Github URL : </b><a href="https://github.com/GokilaPalanisamy" class="texting">https://github.com/GokilaPalanisamy</a></h2>
+		<h2 class=""><b>Hackerrank URL : </b><a href="https://www.hackerrank.com/sarangoki005" class="texting">https://www.hackerrank.com/sarangoki005</a></h2>
 	</div>
 	<div class="row col-md-12 texting">
 	<h1><u><b>OBJECTIVE </b></u></h1>
